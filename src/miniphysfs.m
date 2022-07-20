@@ -1,0 +1,1 @@
+#define PHYSFS_PLATFORM_IMPL
